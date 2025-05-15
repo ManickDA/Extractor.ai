@@ -1,2 +1,2 @@
-# Extractor.ai
-Invoice&amp;Business Card Extractor 
+# Invoice_Main
+Invoice

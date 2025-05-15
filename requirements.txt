@@ -1,0 +1,15 @@
+streamlit
+pillow
+opencv-python
+numpy
+pandas
+python-dotenv
+groq
+easyocr
+pdf2image
+requests
+pymupdf
+python-docx
+aspose-words
+docx2txt
+
